@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="aquaris-dev/android_device_bq_zangyapro" path="device/bq/zangyapro" revision="lineage-15.1" />
+  <project name="aquaris-dev/android_device_bq_sdm660-common" path="device/bq/sdm660-common" revision="lineage-15.1" />
+  <project name="aquaris-dev/android_kernel_bq_sdm660" path="kernel/bq/sdm660" revision="lineage-15.1" remote="github" />
+  <project name="brinlyau/vendor_zangya" path="vendor/bq" revision="master" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+</manifest>
