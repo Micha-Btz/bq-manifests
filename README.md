@@ -1,2 +1,2 @@
-# zyangopro-manifest
-build lineage for zangya pro
+#BQ Aquaris X5 paella manifest
+build lineage 15.1 for paella
