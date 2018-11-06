@@ -5,8 +5,8 @@
   <project name="LineageOS/android_kernel_bq_msm8939" path="kernel/bq/msm8939" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" revision="lineage-15.1" />
-  <project name="aquaris-dev/android_device_bq_zangyapro" path="device/bq/zangyapro" revision="lineage-15.1" />
-  <project name="aquaris-dev/android_device_bq_sdm660-common" path="device/bq/sdm660-common" revision="lineage-15.1" />
-  <project name="aquaris-dev/android_kernel_bq_sdm660" path="kernel/bq/sdm660" revision="lineage-15.1" remote="github" />
+  <project name="LineageOS/android_device_bq_zangyapro" path="device/bq/zangyapro" revision="lineage-15.1" />
+  <project name="LineageOS/android_device_bq_sdm660-common" path="device/bq/sdm660-common" revision="lineage-15.1" />
+  <project name="LineageOS/android_kernel_bq_sdm660" path="kernel/bq/sdm660" revision="lineage-15.1" remote="github" />
   <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq" revision="lineage-15.1" />
 </manifest>
