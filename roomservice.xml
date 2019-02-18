@@ -6,4 +6,5 @@
   <project name="LineageOS/android_device_bq_sdm660-common" path="device/bq/sdm660-common" revision="lineage-15.1" />
   <project name="LineageOS/android_kernel_bq_sdm660" path="kernel/bq/sdm660" remote="github" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_bq" path="vendor/bq" revision="lineage-15.1" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" revision="android-8.1"/>
 </manifest>
